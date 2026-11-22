@@ -1,0 +1,79 @@
+{
+  "HOME": {
+    "base": 7,
+    "joint2": 145,
+    "joint3": 180,
+    "joint4": 96,
+    "gripper": 110
+  },
+  "PICK": {
+    "base": 106,
+    "joint2": 34,
+    "joint3": 146,
+    "joint4": 100,
+    "gripper": 88
+  },
+  "P1": {
+    "base": 15,
+    "joint2": 57,
+    "joint3": 170,
+    "joint4": 103,
+    "gripper": 88
+  },
+  "P2": {
+    "base": 36,
+    "joint2": 53,
+    "joint3": 173,
+    "joint4": 103,
+    "gripper": 88
+  },
+  "P3": {
+    "base": 62,
+    "joint2": 49,
+    "joint3": 173,
+    "joint4": 103,
+    "gripper": 88
+  },
+  "P4": {
+    "base": 21,
+    "joint2": 33,
+    "joint3": 130,
+    "joint4": 103,
+    "gripper": 88
+  },
+  "P5": {
+    "base": 41,
+    "joint2": 33,
+    "joint3": 137,
+    "joint4": 103,
+    "gripper": 88
+  },
+  "P6": {
+    "base": 54,
+    "joint2": 33,
+    "joint3": 137,
+    "joint4": 103,
+    "gripper": 88
+  },
+  "P7": {
+    "base": 23,
+    "joint2": 0,
+    "joint3": 70,
+    "joint4": 95,
+    "gripper": 88
+  },
+  "P8": {
+    "base": 43,
+    "joint2": 0,
+    "joint3": 78,
+    "joint4": 95,
+    "gripper": 88
+  },
+  "P9": {
+    "base": 56,
+    "joint2": 0,
+    "joint3": 78,
+    "joint4": 95,
+    "gripper": 88
+  }
+}
